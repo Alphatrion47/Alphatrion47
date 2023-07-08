@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alphatrion47
 - 👀 I’m interested in . Machine Learning
-- 🌱 I’m currently learning .. Unsupervised Algorithms
+- 🌱 I’m currently learning .. Time Series Forecasting
 - 💞️ I’m looking to collaborate on .. Interesting projects for a beginner
 - 📫 How to reach me ... srinath.r8@gmail.coom
 
